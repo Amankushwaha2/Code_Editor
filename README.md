@@ -1,2 +1,1 @@
-# codealpha_codeeditor
-this is an online code editor website created with the help of html,css &amp; js 
+This is an online code editor website created with the help of HTML,CSS and JS 
